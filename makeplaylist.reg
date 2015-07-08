@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Folder\shell\play]
+@="Make Playlist(s)"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Folder\shell\play\command]
+@="cmd /C C:\\makeplaylist.bat \"%L\""
