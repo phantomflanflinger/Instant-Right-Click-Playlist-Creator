@@ -1,6 +1,6 @@
 # Instant-Right-Click-Playlist-Creator
 
-Update June 2025: has it been 10 years since I made this? Well, it still work and I haven't updated the code because it doesn't need it.
+Update June 2025: has it been 10 years since I made this? Well, it still works, so I haven't updated the code because it doesn't need it.
 
 I always wanted to be able to right-click any folder (or multiple folders) and choose a "Make Playlist" option from the context menu which instantly created playlist(s) appropriately named **the-folder-name.m3u** of all the songs inside *each* folder. So I coded this little thing...
 
@@ -16,7 +16,7 @@ Download the two files in this repository, **makeplaylist.bat** and **makeplayli
 
 It overwrites m3us (with the exact same name) without prompting.
 
-The default number of folders this will work on is 15, but you can increase this by following these instructions:
+In Windows 7 the default number of folders this will work on is 15, but you can increase this by following these instructions:
 http://www.ghacks.net/2011/03/05/fix-context-menu-items-missing-in-windows-explorer/ 
 However: 16 doesn't = infinity, despite what it says. Create a MultipleInvokePromptMinimum key and set it to 50 (decimal) and you can make Playlists for 50 folders.
 
