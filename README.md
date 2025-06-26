@@ -1,6 +1,8 @@
 # Instant-Right-Click-Playlist-Creator
 
-I always wanted to be able to right-click any folder (or multiple folders) and choose a "Make Playlist" option from the context menu which instantly created playlist(s) appropriately named **the-folder-name.m3u** of all the songs inside *each* folder. So I coded this little ting...
+Update June 2025: has it been 10 years since I made this? Well, it still work and I haven't updated the code because it doesn't need it.
+
+I always wanted to be able to right-click any folder (or multiple folders) and choose a "Make Playlist" option from the context menu which instantly created playlist(s) appropriately named **the-folder-name.m3u** of all the songs inside *each* folder. So I coded this little thing...
 
 **INSTRUCTIONS**
 
@@ -28,6 +30,6 @@ If you were wondering, **chcp 1252** ensures characters with accents (like éç�
 
 To remove this feature: simply delete it using Regedit.
 
-I've tested this in Windows XP 32 Bit and 7 Ultimate 64 bit. Also works in Windows 8 - although I don't use it.
+Works in Windows XP, 7, 8, 10 and 11.
 
 Disclaimer: this program is provided free of charge and I am not reposonsible. Just ask my wife.
